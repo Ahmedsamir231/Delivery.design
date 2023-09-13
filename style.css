@@ -1,0 +1,256 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(blue_bg.png.png);
+    background-size: 1550px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.home{
+    border-bottom: 2px solid darkmagenta;
+}
+.navigation{
+    display: flex;
+}
+ul{
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    height: 60px;
+    margin-right: 50px;
+
+}
+nav img{
+    position: relative;
+    top: 10px;
+    width: 100px;
+    height: 50px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 35px;
+    margin-bottom: 30px;
+}
+
+
+
+.navright{
+    position: relative;
+    left: 650px;
+    top: 50px;
+}
+.navright .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    width: 60px;
+    border: none;
+    background-color: white;
+
+
+
+
+}
+
+
+
+
+
+div3{
+    position: relative;
+    right: 680px;
+    top: 300px;
+
+}
+divdel{
+    color: darkmagenta;
+
+}
+diva{
+    position: relative;
+    top: 350px;
+    right: 680px;
+}
+div5{
+    width: 100px;
+}
+
+.ah img{
+    position: relative;
+    top: 40px;
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    height: 770px;
+
+}
+.manimg img {
+    position: absolute;
+    margin: 10x;
+    top: 160px;
+    height: 450px;
+    right: 50px;
+    left: 930px;
+    bottom: 2000px;
+}
+.clouds{
+    position: absolute;
+    top: 530px;
+    width: 200px;
+    left: 850px;
+}
+
+.waves{
+position: absolute;
+right: 380px;
+top: 640px;
+}
+
+.group{
+    position: absolute;
+    top: 990px;
+    right: 1010px;
+}
+.box1{
+    inline-size: 255px;
+    overflow-wrap: break-word;
+
+}
+
+
+
+.second{
+    position:absolute;
+    right: 1px;
+    left: 360px;
+    top: 900px;
+}
+
+.g152{
+    position: absolute;
+    top: 1150px;
+    right: 200px;
+}
+.box2{
+    inline-size: 58%;
+    overflow-wrap: break-word;
+
+}
+
+
+
+
+
+/* start image name g1020*/
+.g1020{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 340px;
+    right: 50px;
+    left: 450px;
+}
+.box3{
+    inline-size: 180%;
+    overflow-wrap: break-word;
+}
+/*end image name g1020*/
+
+
+/*start image why choose kudzoka*/
+.why{
+    position: absolute;
+    right: 850px;
+    top: 370px;
+}
+.why divwhy{
+    position: absolute;
+    top: 70px;
+    right: 30px;
+    color: white;
+}
+.box4{
+    inline-size: 170px;
+    overflow-wrap: break-word;
+}
+/*end image why choose kudzoka*/
+
+
+/*start image name 1007*/
+.a1007 img{
+    position: absolute;
+    top: 550px;
+    right: 350px;
+}
+div1007{
+    position: absolute;
+    top: 780px;
+    right: 250px;
+    inline-size: 400px;
+    overflow-wrap: break-word;
+}
+.box5{
+    position: absolute;
+    top: 50px;
+    right: 195px;
+    inline-size:50%;
+    overflow-wrap: break-word;
+}
+/*end image name 1007*/
+
+/*start image name g1008 */
+.g1008{
+    position: absolute;
+    top: 700px;
+    left: 350px;
+}
+/*end image name g1008*/
+
+
+/* start image name g1006*/
+.g1006{
+    position: absolute;
+    top: 670px;
+    right: 800px;
+}
+/*end image name g 1006*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
